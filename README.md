@@ -13,7 +13,8 @@ A secure and customizable password generator built with **React** and styled usi
 
 ## 📸 Demo
 
-![App Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/914529f8-1468-44bb-9574-7db25e420bcf)
+
 
 ## 🛠️ Built With
 
